@@ -1,0 +1,12 @@
+What are conformal mappings?
+Where are they used?
+Who introduced conformal mappings?
+What are its geometrical implications?
+What is the mathematical definition?
+What are the interesting properties of conformal mappings?
+What are unsolved problems related to conformal mappings?
+Who did most work on conformal mappings?
+What concepts does the idea of conformal mapping depend on?
+What are a few examples of conformal mappings?
+Which concepts depend on the idea of conformal mappings?
+Why are they important?
